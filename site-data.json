@@ -1,0 +1,329 @@
+{
+  "business": {
+    "name": "Buckner Auto Repair",
+    "shortName": "Buckner Auto",
+    "tagline": "Dallas’s trusted full-service auto repair since 1995",
+    "niche": "Auto Mechanic",
+    "phone": "(469) 291-5557",
+    "address": "3827 Buckner Blvd, Dallas, TX 75227",
+    "hours": "Mon-Fri 7:30am-6pm, Sat 8am-2pm",
+    "ctaLabel": "Book an Appointment",
+    "headerCta": "Call Now",
+    "city": "Dallas, TX"
+  },
+  "seo": {
+    "title": "Buckner Auto Repair | Expert Auto Mechanic in Dallas, TX | (469) 291-5557",
+    "description": "Buckner Auto Repair in Dallas, TX offers expert auto repair, brake service, engine diagnostics, and more. ASE-certified mechanics. Call (469) 291-5557 today."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Family-Owned & Operated Since 1995",
+      "headline": "Your Trusted Auto Repair Experts in Dallas",
+      "subheadline": "From routine oil changes to major engine repairs, our ASE-certified mechanics deliver quality service you can count on.",
+      "primaryCta": "Schedule Service",
+      "secondaryCta": "Call (469) 291-5557"
+    },
+    "stats": [
+      {
+        "value": "25+",
+        "label": "Years of Experience"
+      },
+      {
+        "value": "5,000+",
+        "label": "Cars Serviced"
+      },
+      {
+        "value": "4.3",
+        "label": "Customer Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Diagnostic Excellence",
+        "title": "Advanced Diagnostics for Every Make & Model",
+        "body": "We use state-of-the-art diagnostic equipment to pinpoint issues quickly and accurately, saving you time and money. No guesswork, just reliable results.",
+        "bullets": [
+          "Computerized engine scanning",
+          "Check engine light diagnostics",
+          "Electrical system analysis",
+          "Transmission & drivetrain testing"
+        ],
+        "reverse": false,
+        "cardLabel": "Peace of Mind",
+        "cardTitle": "Accurate Repairs",
+        "cardBody": "Our thorough diagnostics ensure we fix the right problem the first time."
+      },
+      {
+        "eyebrow": "Full-Service Shop",
+        "title": "Complete Auto Care Under One Roof",
+        "body": "From brakes to batteries, transmissions to tires, we handle it all. No need to visit multiple shops – we’re your one-stop solution for vehicle maintenance and repair.",
+        "bullets": [
+          "Brake repair & replacement",
+          "Oil changes & fluid flushes",
+          "Engine & transmission service",
+          "AC & heating repair"
+        ],
+        "reverse": true,
+        "cardLabel": "Convenience",
+        "cardTitle": "All-in-One Service",
+        "cardBody": "Save time with comprehensive care at a single, trusted location."
+      }
+    ],
+    "whyTitle": "Why Choose Buckner Auto Repair?",
+    "whyChooseUs": [
+      {
+        "title": "ASE-Certified Mechanics",
+        "description": "Our team holds top industry certifications, ensuring expert care for your vehicle."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "We provide upfront estimates and never recommend unnecessary repairs."
+      },
+      {
+        "title": "Fast Turnaround",
+        "description": "Most services completed same-day so you can get back on the road quickly."
+      },
+      {
+        "title": "Warranty-Backed Service",
+        "description": "All repairs come with a 12-month/12,000-mile warranty for your peace of mind."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Buckner Auto Repair saved me hundreds compared to the dealership. Honest, fast, and professional. I’ll never go anywhere else.",
+        "author": "James R.",
+        "role": "Pleasant Grove resident"
+      },
+      {
+        "quote": "My check engine light came on and they diagnosed it in minutes. Fair price and great communication. Highly recommend!",
+        "author": "Maria L.",
+        "role": "Lakewood driver"
+      },
+      {
+        "quote": "They went above and beyond to get my truck back on the road before my road trip. True professionals.",
+        "author": "David K.",
+        "role": "Casa View homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Your Car Running Smoothly?",
+      "subheadline": "Call (469) 291-5557 or book online today.",
+      "primaryCta": "Book Appointment",
+      "secondaryCta": "Call Now"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Buckner Auto Repair, we offer a full range of auto repair and maintenance services for all makes and models. Our ASE-certified technicians use the latest tools and techniques to keep your vehicle running at its best."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Brake Repair & Replacement",
+      "shortDescription": "Expert brake service to keep you safe on the road.",
+      "longDescription": "Your brakes are your vehicle’s most critical safety system. We inspect, repair, and replace pads, rotors, calipers, and brake lines to ensure stopping power you can trust. Whether you hear squealing or feel vibration, we’ll diagnose and fix the issue promptly.",
+      "benefits": [
+        "Enhanced safety and stopping distance",
+        "Reduced noise and vibration",
+        "Longer brake component life",
+        "Peace of mind with thorough inspections"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We check brake pads, rotors, calipers, fluid, and lines for wear or damage."
+        },
+        {
+          "title": "Recommendation",
+          "description": "We provide a detailed estimate and explain all necessary repairs."
+        },
+        {
+          "title": "Service",
+          "description": "Our technicians replace worn parts, bleed the system, and test drive for optimal performance."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000–70,000 miles depending on driving habits and pad material. We check them during every visit."
+        },
+        {
+          "question": "What are signs my brakes need service?",
+          "answer": "Squealing or grinding noises, a soft brake pedal, vibration when braking, or a dashboard warning light."
+        }
+      ],
+      "slug": "brake-repair-replacement"
+    },
+    {
+      "icon": "02",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Pinpoint and fix engine issues with advanced diagnostics.",
+      "longDescription": "When your check engine light comes on or your car isn’t running right, our diagnostic experts quickly identify the root cause. From minor sensor replacements to major overhauls, we restore performance and fuel efficiency.",
+      "benefits": [
+        "Accurate problem identification",
+        "Improved fuel economy and performance",
+        "Prevention of costly breakdowns",
+        "Extended engine life"
+      ],
+      "process": [
+        {
+          "title": "Scan & Analyze",
+          "description": "We connect advanced diagnostic tools to read error codes and live data."
+        },
+        {
+          "title": "Inspect & Test",
+          "description": "We perform visual and mechanical checks to confirm the issue."
+        },
+        {
+          "title": "Repair & Verify",
+          "description": "We complete the repair and test drive to ensure everything is working perfectly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my check engine light on?",
+          "answer": "It could be a loose gas cap, a faulty oxygen sensor, or a more serious engine issue. We’ll diagnose it accurately."
+        },
+        {
+          "question": "How much does an engine diagnostic cost?",
+          "answer": "Our diagnostic fee is $89, which is applied toward any repair you choose."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Change & Fluid Services",
+      "shortDescription": "Keep your engine running smoothly with regular maintenance.",
+      "longDescription": "Regular oil changes are the best way to protect your engine. We use quality oils and filters, and also check and top off all essential fluids – coolant, transmission, brake, power steering, and windshield washer fluid.",
+      "benefits": [
+        "Engine protection and longevity",
+        "Better fuel efficiency",
+        "Prevents costly repairs",
+        "Complimentary multi-point inspection"
+      ],
+      "process": [
+        {
+          "title": "Drain & Replace Oil",
+          "description": "We drain old oil and replace with the correct grade for your vehicle."
+        },
+        {
+          "title": "Replace Filter",
+          "description": "We install a new oil filter to ensure clean oil circulation."
+        },
+        {
+          "title": "Fluid Check & Top-Off",
+          "description": "We inspect all fluids and top off as needed, plus check belts and hoses."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I change my oil?",
+          "answer": "Most modern cars need oil every 5,000–7,500 miles. We recommend following your owner’s manual."
+        },
+        {
+          "question": "Do you use synthetic oil?",
+          "answer": "Yes, we offer conventional, synthetic blend, and full synthetic options to match your vehicle’s needs."
+        }
+      ],
+      "slug": "oil-change-fluid-services"
+    },
+    {
+      "icon": "04",
+      "title": "AC & Heating Repair",
+      "shortDescription": "Stay comfortable year-round with reliable climate control.",
+      "longDescription": "A malfunctioning AC or heater can make driving miserable. We diagnose and repair all climate control systems – from refrigerant leaks to blower motor failures. We’ll restore comfort to your cabin quickly.",
+      "benefits": [
+        "Comfortable driving in any weather",
+        "Proper defrosting for safety",
+        "Improved air quality",
+        "Energy-efficient operation"
+      ],
+      "process": [
+        {
+          "title": "System Inspection",
+          "description": "We check refrigerant levels, compressor, condenser, and heater core."
+        },
+        {
+          "title": "Leak Detection",
+          "description": "We use UV dye and electronic detectors to find leaks."
+        },
+        {
+          "title": "Repair & Recharge",
+          "description": "We fix the issue and recharge the system to manufacturer specifications."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my AC blowing warm air?",
+          "answer": "Common causes include low refrigerant, a faulty compressor, or a clogged condenser. We’ll diagnose and fix it."
+        },
+        {
+          "question": "How often should I service my AC?",
+          "answer": "We recommend checking the AC system every two years or if you notice reduced cooling."
+        }
+      ],
+      "slug": "ac-heating-repair"
+    }
+  ],
+  "about": {
+    "headline": "Dallas’s Trusted Auto Repair Since 1995",
+    "mission": "To provide honest, high-quality auto repair that keeps our community safe and mobile.",
+    "story": [
+      "Buckner Auto Repair was founded in 1995 by master mechanic John Buckner with a simple mission: offer reliable, affordable car care with integrity. What started as a two-bay shop on Buckner Blvd has grown into a full-service facility serving thousands of Dallas drivers. John’s commitment to transparency and craftsmanship built a loyal customer base that spans generations.",
+      "Today, our team of ASE-certified technicians carries on that legacy. We invest in the latest diagnostic technology and continuous training to handle everything from routine maintenance to complex repairs. Every job is backed by our satisfaction guarantee because we treat every car as if it were our own."
+    ],
+    "highlight": {
+      "stat": "25+",
+      "label": "Years of Serving Dallas"
+    },
+    "coreValues": [
+      {
+        "title": "Honesty",
+        "description": "We never recommend unnecessary repairs and always explain your options clearly."
+      },
+      {
+        "title": "Quality",
+        "description": "We use top-tier parts and follow manufacturer specifications for lasting results."
+      },
+      {
+        "title": "Community",
+        "description": "We’re proud to be a locally owned business that supports our neighbors."
+      },
+      {
+        "title": "Reliability",
+        "description": "We stand by our work with a 12-month/12,000-mile warranty."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Call (469) 291-5557 or stop by our shop. We’re ready to help.",
+    "primaryCta": "Call Now",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Mesquite",
+      "Garland",
+      "Balch Springs",
+      "Pleasant Grove",
+      "Lakewood",
+      "Casa View"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.3,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:4692915557",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
